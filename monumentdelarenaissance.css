@@ -1,0 +1,74 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(images/nathan-dumlao-cJG8UJQT0Ws-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+li{
+   display: inline;
+}
+ul{
+   word-spacing: 2px;
+}
+
+nav ul{
+    background-color: blue;
+    box-sizing: border-box;
+    height: 80px;
+    width: 100%;
+    line-height: 80px;
+    margin-inline-end: 150px;
+    list-style: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ ul li a{    
+      
+    text-decoration: none;
+    padding: 10px 10px;
+    color: white;
+}
+li:hover{
+    background-color: black;
+    transition: 0s;
+}
+.kb9{
+    text-align: center;
+    
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: monospace;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.izi{
+    text-align: center;
+    color: white;
+
+}
+.zonzei{
+    text-align: right;
+    color: rgba(128, 62, 0, 0.726);
+}
+    

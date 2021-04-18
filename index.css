@@ -1,0 +1,87 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(./imtest/annie-spratt-xTaOPMa6wAE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+p{
+    text-align: center;
+    font-size: 22px;
+}
+
+li{
+    display: inline;
+}
+ul{
+    word-spacing: 2px;
+}
+
+nav ul{
+    background-color: blue;
+    box-sizing: border-box;
+    height: 80px;
+    width: 100%;
+    line-height: 80px;
+    margin-inline-end: 150px;
+    list-style: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+ul li a{    
+    text-decoration: none;
+    padding: 10px 10px;
+    color: white;
+
+}
+li:hover{
+    background-color: black;
+    transition: 0s;
+}
+#Burjkhalifa{
+    color: greenyellow;
+}
+#monumentdelarenaissance{
+    color: greenyellow;
+}
+#grandemurailledechine{
+    color: greenyellow;
+}
+#christredempteur{
+    color: greenyellow;
+    
+}
+#museedulouvre{
+    color: greenyellow;
+}
+.style{
+    padding-left: 560px;
+}
+.style1{
+    padding-left: 560px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+footer{
+    color: aqua;
+}
+.zonzei{
+    text-align: right;
+    color: rgba(128, 62, 0, 0.726);
+}
+.style3{
+    padding-left: 560px;
+}
+
+.zaza{
+    font-family: fantasy;
+}
+h1{
+    font-family: cursive;
+}
